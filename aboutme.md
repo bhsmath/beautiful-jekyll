@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: First Post!
+subtitle: Welcome to the Belmont High School Math Team Website!
 ---
 
 Hello! Welcome to the Belmont High School Math Team Website! We hope you like it! 
